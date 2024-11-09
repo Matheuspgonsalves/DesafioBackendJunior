@@ -1,6 +1,0 @@
-#Ambiente virtual
-/env
-
-# Arquivos de compilaçãogit status
-__pycache__/
-*.py[cod]
